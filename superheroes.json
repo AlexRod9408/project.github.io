@@ -1,0 +1,41 @@
+{
+  "squadName" : "Escuadron de Superheroes Universitaria",
+  "Ciudad" : "Bogota",
+  "Año" : 2023,
+  "secretBase" : "Area 51",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Hombre Molecula",
+      "Edad" : 29,
+      "secretIdentity" : "Alexander E.",
+      "powers" : [
+        "Resistencia a la radiacion",
+        "Cambiar de tamaño",
+        "Poder Cósmico"
+      ]
+    },
+    {
+      "name" : "Hombre de piedra",
+      "Edad" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Super fuerza",
+        "Resistencia al fuego",
+        "Reflejos sobrehumanos"
+      ]
+    },
+    {
+      "name" : "Hombre de Fuego",
+      "Edad" : 100,
+      "secretIdentity" : "Desconocida",
+      "powers" : [
+        "Inmoratildad",
+        "Inmunidad al Calor",
+        "Infierno",
+        "Teletransportacion",
+        "viaje interdimensional"
+      ]
+    }
+  ]
+}
