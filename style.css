@@ -81,3 +81,15 @@ h2 {
   
   
 }
+
+a{
+  font-family: 'Ink Free', cursive;
+  font-size: 1.9rem;
+  color:white;
+  position: relative;
+  left: 1030px;
+  -webkit-text-stroke: 0.1px white;
+  text-shadow: black 7px 4px;
+  
+}
+
